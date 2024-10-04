@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1728023949836",
+      "name": "Natwar Prajapati",
+      "email": "prajapatinatwar06@gmail.com",
+      "contact": "7405413102",
+      "country": "India"
+    },
+    {
+      "id": "1728026594359",
+      "name": "yash Kamble",
+      "email": "yashkamble1234@gmail.com",
+      "contact": "7600513885",
+      "country": "India"
+    },
+    {
+      "id": "1728027480815",
+      "name": "Binita Tops",
+      "email": "binitia@gmail.com",
+      "contact": "451444444",
+      "country": "India"
+    },
+    {
+      "id": "1728027519599",
+      "name": "mehul",
+      "email": "mh@gmail.com",
+      "contact": "8855476123",
+      "country": "India"
+    }
+  ]
+}
